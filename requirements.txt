@@ -2,7 +2,7 @@ Flask==1.1.1
 Flask-Cors==3.0.8
 gunicorn==19.9.0
 pytz==2019.3
-tensorflow-cpu>=2.2
+keras>=2.0
 pillow>=8.3.2
 imageio>=2.0.0
 opencv-python>=4.0.0
