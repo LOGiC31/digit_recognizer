@@ -10,12 +10,12 @@ This is a Flask web app which recognize the digit you draw.
 1. Just draw the digit on the white space provided.
 
 
-![]([Imgur](https://i.imgur.com/Krqt9aS.jpg))
+![](https://i.imgur.com/Krqt9aS.jpg)
 
 ## Output
 
 **Predicted Digit.**
-![]([Imgur](https://i.imgur.com/Hz0M7UN.jpg))
+![](https://i.imgur.com/Hz0M7UN.jpg)
 ## Algorithm Used
 
 CNN(**Convolutional Neural Network**) is used to predict the digit.
