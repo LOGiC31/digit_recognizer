@@ -10,17 +10,16 @@ This is a Flask web app which recognize the digit you draw.
 1. Just draw the digit on the white space provided.
 
 
-![](https://i.imgur.com/ubOymxL.jpg)
+![]([Imgur](https://i.imgur.com/Krqt9aS.jpg))
 
 ## Output
 
 **Predicted Digit.**
-![](https://i.imgur.com/LooUkAc.jpg)
+![]([Imgur](https://i.imgur.com/Hz0M7UN.jpg))
 ## Algorithm Used
 
 CNN(**Convolutional Neural Network**) is used to predict the digit.
-## FlowChart
-![](https://github.com/LOGiC31/flightprice-prediction/blob/main/flowchart1.png)
+
 ## Directory Tree 
 ```
 ├── static 
@@ -45,7 +44,8 @@ CNN(**Convolutional Neural Network**) is used to predict the digit.
 
 ## Future Scope
 
+* Can be extended for alphanumeric characters also.
 * Use multiple Algorithms - More complex neural networks can be used.
 * Optimize Flask app.py
 * More specifications can be included.
-* Front-End 
+* Front-End Improvements
